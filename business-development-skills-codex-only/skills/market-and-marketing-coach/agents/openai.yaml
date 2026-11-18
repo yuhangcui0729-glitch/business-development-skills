@@ -1,0 +1,13 @@
+interface:
+  display_name: Market & Marketing Coach · EN/DE
+  short_description: SWOT, competitors, positioning and the 4 Ps
+  default_prompt: let's go/los geht's
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

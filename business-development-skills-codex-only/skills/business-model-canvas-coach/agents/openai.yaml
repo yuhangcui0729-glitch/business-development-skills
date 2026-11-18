@@ -1,0 +1,13 @@
+interface:
+  display_name: Business Model Canvas Coach · EN/DE
+  short_description: Bilingual canvas coaching / Geschäftsmodell-Coaching
+  default_prompt: let's go/los geht's
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

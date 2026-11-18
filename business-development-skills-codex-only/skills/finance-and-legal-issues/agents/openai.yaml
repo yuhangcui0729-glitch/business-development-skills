@@ -1,0 +1,13 @@
+interface:
+  display_name: Finance and Legal Issues · EN/DE
+  short_description: Finance and Austrian law / Finanzen und Recht in Österreich
+  default_prompt: let's go/los geht's
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
